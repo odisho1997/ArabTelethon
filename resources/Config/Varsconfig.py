@@ -1,4 +1,4 @@
-#    ICSS - USERBOT
+#    tele - USERBOT
 #    CONFIGS - VARS
 
 import os
